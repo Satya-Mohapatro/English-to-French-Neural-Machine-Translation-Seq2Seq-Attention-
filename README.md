@@ -1,0 +1,2 @@
+# English-to-French-Neural-Machine-Translation-Seq2Seq-Attention-
+A complete end-to-end Neural Machine Translation (NMT) system built using TensorFlow/Keras. This project implements an Encoder-Decoder LSTM architecture with Bahdanau Attention, trained on the ManyThings English–French dataset. Includes preprocessing, training pipeline, BLEU evaluation, and greedy decoding for real-time translation.
